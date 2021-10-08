@@ -4,6 +4,6 @@
 
 的方式添加了一个额外的引用路径：
 
-	"python.autoComplete.extraPath": ["C:\\Users\\韦思弢\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages"
+	"python.autoComplete.extraPath": ["C:\\Users\\韦思弢\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages"]
 
 之后再次import就不再继续报错了。这和最开始配置VS环境出现的问题如出一辙，但是VS的配置方法和这里还是有很大的区别，我也忘了究竟怎么解决的了，反正暂时也用不上它。
